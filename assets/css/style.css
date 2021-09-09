@@ -711,6 +711,9 @@ div#preloader {
   margin-top: 40px;
 }
 
+.rowdeeee {
+  text-align: center;
+}
 .section-head > h2 {
   color: #333;
 }
@@ -2122,6 +2125,12 @@ span.email-notes {
 }
 
 .flicker-img > a {
+  float: left;
+  padding: 1px;
+  width: 33.33%;
+}
+
+.flickeriii-img > a {
   float: left;
   padding: 1px;
   width: 33.33%;
